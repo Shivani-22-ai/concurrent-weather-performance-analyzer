@@ -1,10 +1,6 @@
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.log
+*.pyc
 .venv/
 venv/
 .env
-.streamlit/
-.pytest_cache/
+.streamlit/secrets.toml
