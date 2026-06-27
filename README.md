@@ -1,15 +1,24 @@
 # ⚡ Concurrent Weather Performance Analyzer
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Live-success)
+
 A modern **Streamlit dashboard** that demonstrates how Python concurrency improves the performance of **I/O-bound API requests**. This project benchmarks **Sequential** and **Concurrent** weather data retrieval using Python's **ThreadPoolExecutor**, measures execution time, visualizes the results, and highlights the performance gains achieved through multithreading.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Application:** Coming Soon
+🌐 **Application:** https://concurrent-weather-performance-analyzer.streamlit.app/
 
 📂 **GitHub Repository:** https://github.com/Shivani-22-ai/concurrent-weather-performance-analyzer
----
+
+----
 
 # 📌 Project Overview
 
