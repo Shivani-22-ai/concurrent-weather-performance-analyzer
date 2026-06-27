@@ -1,6 +1,42 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual Environments
 .venv/
 venv/
+env/
+ENV/
+
+# Environment Variables
 .env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+tempCodeRunnerFile.py
+
+# Streamlit
 .streamlit/secrets.toml
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type Checking
+.mypy_cache/
+.pytype/
+.ruff_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
