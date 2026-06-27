@@ -1,0 +1,7 @@
+services:
+  weather-dashboard:
+    build: .
+    container_name: weather-dashboard
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
